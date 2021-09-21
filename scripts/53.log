@@ -1,0 +1,464 @@
+2021-09-18 09:53:54,684 - INFO - Array - [-2, 1, -3, 4, -1, 2, 1, -5, 4]
+2021-09-18 09:53:54,685 - INFO - Sum of array - 1
+2021-09-18 09:53:54,685 - DEBUG - Index i - 0
+2021-09-18 09:53:54,685 - DEBUG - End index j - 0
+2021-09-18 09:53:54,685 - DEBUG - Slice/subarray - [-2]
+2021-09-18 09:53:54,685 - DEBUG - Sum of subarray - -2
+2021-09-18 09:53:54,685 - DEBUG - End index j - 1
+2021-09-18 09:53:54,685 - DEBUG - Slice/subarray - [-2, 1]
+2021-09-18 09:53:54,685 - DEBUG - Sum of subarray - -1
+2021-09-18 09:53:54,685 - DEBUG - End index j - 2
+2021-09-18 09:53:54,685 - DEBUG - Slice/subarray - [-2, 1, -3]
+2021-09-18 09:53:54,685 - DEBUG - Sum of subarray - -4
+2021-09-18 09:53:54,686 - DEBUG - End index j - 3
+2021-09-18 09:53:54,686 - DEBUG - Slice/subarray - [-2, 1, -3, 4]
+2021-09-18 09:53:54,686 - DEBUG - Sum of subarray - 0
+2021-09-18 09:53:54,686 - DEBUG - End index j - 4
+2021-09-18 09:53:54,686 - DEBUG - Slice/subarray - [-2, 1, -3, 4, -1]
+2021-09-18 09:53:54,686 - DEBUG - Sum of subarray - -1
+2021-09-18 09:53:54,686 - DEBUG - End index j - 5
+2021-09-18 09:53:54,686 - DEBUG - Slice/subarray - [-2, 1, -3, 4, -1, 2]
+2021-09-18 09:53:54,686 - DEBUG - Sum of subarray - 1
+2021-09-18 09:53:54,686 - DEBUG - End index j - 6
+2021-09-18 09:53:54,686 - DEBUG - Slice/subarray - [-2, 1, -3, 4, -1, 2, 1]
+2021-09-18 09:53:54,686 - DEBUG - Sum of subarray - 2
+2021-09-18 09:53:54,687 - DEBUG - End index j - 7
+2021-09-18 09:53:54,687 - DEBUG - Slice/subarray - [-2, 1, -3, 4, -1, 2, 1, -5]
+2021-09-18 09:53:54,687 - DEBUG - Sum of subarray - -3
+2021-09-18 09:53:54,687 - DEBUG - End index j - 8
+2021-09-18 09:53:54,687 - DEBUG - Slice/subarray - [-2, 1, -3, 4, -1, 2, 1, -5, 4]
+2021-09-18 09:53:54,687 - DEBUG - Sum of subarray - 1
+2021-09-18 09:53:54,687 - DEBUG - Index i - 1
+2021-09-18 09:53:54,687 - DEBUG - End index j - 1
+2021-09-18 09:53:54,687 - DEBUG - Slice/subarray - [1]
+2021-09-18 09:53:54,687 - DEBUG - Sum of subarray - 1
+2021-09-18 09:53:54,687 - DEBUG - End index j - 2
+2021-09-18 09:53:54,688 - DEBUG - Slice/subarray - [1, -3]
+2021-09-18 09:53:54,688 - DEBUG - Sum of subarray - -2
+2021-09-18 09:53:54,688 - DEBUG - End index j - 3
+2021-09-18 09:53:54,688 - DEBUG - Slice/subarray - [1, -3, 4]
+2021-09-18 09:53:54,688 - DEBUG - Sum of subarray - 2
+2021-09-18 09:53:54,688 - DEBUG - End index j - 4
+2021-09-18 09:53:54,688 - DEBUG - Slice/subarray - [1, -3, 4, -1]
+2021-09-18 09:53:54,688 - DEBUG - Sum of subarray - 1
+2021-09-18 09:53:54,688 - DEBUG - End index j - 5
+2021-09-18 09:53:54,688 - DEBUG - Slice/subarray - [1, -3, 4, -1, 2]
+2021-09-18 09:53:54,688 - DEBUG - Sum of subarray - 3
+2021-09-18 09:53:54,688 - DEBUG - End index j - 6
+2021-09-18 09:53:54,688 - DEBUG - Slice/subarray - [1, -3, 4, -1, 2, 1]
+2021-09-18 09:53:54,689 - DEBUG - Sum of subarray - 4
+2021-09-18 09:53:54,689 - DEBUG - End index j - 7
+2021-09-18 09:53:54,689 - DEBUG - Slice/subarray - [1, -3, 4, -1, 2, 1, -5]
+2021-09-18 09:53:54,689 - DEBUG - Sum of subarray - -1
+2021-09-18 09:53:54,689 - DEBUG - End index j - 8
+2021-09-18 09:53:54,689 - DEBUG - Slice/subarray - [1, -3, 4, -1, 2, 1, -5, 4]
+2021-09-18 09:53:54,689 - DEBUG - Sum of subarray - 3
+2021-09-18 09:53:54,689 - DEBUG - Index i - 2
+2021-09-18 09:53:54,689 - DEBUG - End index j - 2
+2021-09-18 09:53:54,689 - DEBUG - Slice/subarray - [-3]
+2021-09-18 09:53:54,689 - DEBUG - Sum of subarray - -3
+2021-09-18 09:53:54,689 - DEBUG - End index j - 3
+2021-09-18 09:53:54,690 - DEBUG - Slice/subarray - [-3, 4]
+2021-09-18 09:53:54,690 - DEBUG - Sum of subarray - 1
+2021-09-18 09:53:54,690 - DEBUG - End index j - 4
+2021-09-18 09:53:54,690 - DEBUG - Slice/subarray - [-3, 4, -1]
+2021-09-18 09:53:54,690 - DEBUG - Sum of subarray - 0
+2021-09-18 09:53:54,690 - DEBUG - End index j - 5
+2021-09-18 09:53:54,690 - DEBUG - Slice/subarray - [-3, 4, -1, 2]
+2021-09-18 09:53:54,690 - DEBUG - Sum of subarray - 2
+2021-09-18 09:53:54,690 - DEBUG - End index j - 6
+2021-09-18 09:53:54,690 - DEBUG - Slice/subarray - [-3, 4, -1, 2, 1]
+2021-09-18 09:53:54,690 - DEBUG - Sum of subarray - 3
+2021-09-18 09:53:54,690 - DEBUG - End index j - 7
+2021-09-18 09:53:54,690 - DEBUG - Slice/subarray - [-3, 4, -1, 2, 1, -5]
+2021-09-18 09:53:54,691 - DEBUG - Sum of subarray - -2
+2021-09-18 09:53:54,691 - DEBUG - End index j - 8
+2021-09-18 09:53:54,691 - DEBUG - Slice/subarray - [-3, 4, -1, 2, 1, -5, 4]
+2021-09-18 09:53:54,691 - DEBUG - Sum of subarray - 2
+2021-09-18 09:53:54,691 - DEBUG - Index i - 3
+2021-09-18 09:53:54,691 - DEBUG - End index j - 3
+2021-09-18 09:53:54,691 - DEBUG - Slice/subarray - [4]
+2021-09-18 09:53:54,691 - DEBUG - Sum of subarray - 4
+2021-09-18 09:53:54,691 - DEBUG - End index j - 4
+2021-09-18 09:53:54,691 - DEBUG - Slice/subarray - [4, -1]
+2021-09-18 09:53:54,691 - DEBUG - Sum of subarray - 3
+2021-09-18 09:53:54,691 - DEBUG - End index j - 5
+2021-09-18 09:53:54,692 - DEBUG - Slice/subarray - [4, -1, 2]
+2021-09-18 09:53:54,692 - DEBUG - Sum of subarray - 5
+2021-09-18 09:53:54,692 - DEBUG - End index j - 6
+2021-09-18 09:53:54,692 - DEBUG - Slice/subarray - [4, -1, 2, 1]
+2021-09-18 09:53:54,692 - DEBUG - Sum of subarray - 6
+2021-09-18 09:53:54,692 - DEBUG - End index j - 7
+2021-09-18 09:53:54,692 - DEBUG - Slice/subarray - [4, -1, 2, 1, -5]
+2021-09-18 09:53:54,692 - DEBUG - Sum of subarray - 1
+2021-09-18 09:53:54,692 - DEBUG - End index j - 8
+2021-09-18 09:53:54,692 - DEBUG - Slice/subarray - [4, -1, 2, 1, -5, 4]
+2021-09-18 09:53:54,692 - DEBUG - Sum of subarray - 5
+2021-09-18 09:53:54,692 - DEBUG - Index i - 4
+2021-09-18 09:53:54,692 - DEBUG - End index j - 4
+2021-09-18 09:53:54,693 - DEBUG - Slice/subarray - [-1]
+2021-09-18 09:53:54,693 - DEBUG - Sum of subarray - -1
+2021-09-18 09:53:54,693 - DEBUG - End index j - 5
+2021-09-18 09:53:54,693 - DEBUG - Slice/subarray - [-1, 2]
+2021-09-18 09:53:54,693 - DEBUG - Sum of subarray - 1
+2021-09-18 09:53:54,693 - DEBUG - End index j - 6
+2021-09-18 09:53:54,693 - DEBUG - Slice/subarray - [-1, 2, 1]
+2021-09-18 09:53:54,693 - DEBUG - Sum of subarray - 2
+2021-09-18 09:53:54,693 - DEBUG - End index j - 7
+2021-09-18 09:53:54,693 - DEBUG - Slice/subarray - [-1, 2, 1, -5]
+2021-09-18 09:53:54,693 - DEBUG - Sum of subarray - -3
+2021-09-18 09:53:54,694 - DEBUG - End index j - 8
+2021-09-18 09:53:54,694 - DEBUG - Slice/subarray - [-1, 2, 1, -5, 4]
+2021-09-18 09:53:54,694 - DEBUG - Sum of subarray - 1
+2021-09-18 09:53:54,694 - DEBUG - Index i - 5
+2021-09-18 09:53:54,694 - DEBUG - End index j - 5
+2021-09-18 09:53:54,694 - DEBUG - Slice/subarray - [2]
+2021-09-18 09:53:54,694 - DEBUG - Sum of subarray - 2
+2021-09-18 09:53:54,694 - DEBUG - End index j - 6
+2021-09-18 09:53:54,694 - DEBUG - Slice/subarray - [2, 1]
+2021-09-18 09:53:54,694 - DEBUG - Sum of subarray - 3
+2021-09-18 09:53:54,695 - DEBUG - End index j - 7
+2021-09-18 09:53:54,695 - DEBUG - Slice/subarray - [2, 1, -5]
+2021-09-18 09:53:54,695 - DEBUG - Sum of subarray - -2
+2021-09-18 09:53:54,695 - DEBUG - End index j - 8
+2021-09-18 09:53:54,695 - DEBUG - Slice/subarray - [2, 1, -5, 4]
+2021-09-18 09:53:54,695 - DEBUG - Sum of subarray - 2
+2021-09-18 09:53:54,695 - DEBUG - Index i - 6
+2021-09-18 09:53:54,695 - DEBUG - End index j - 6
+2021-09-18 09:53:54,695 - DEBUG - Slice/subarray - [1]
+2021-09-18 09:53:54,695 - DEBUG - Sum of subarray - 1
+2021-09-18 09:53:54,695 - DEBUG - End index j - 7
+2021-09-18 09:53:54,695 - DEBUG - Slice/subarray - [1, -5]
+2021-09-18 09:53:54,696 - DEBUG - Sum of subarray - -4
+2021-09-18 09:53:54,696 - DEBUG - End index j - 8
+2021-09-18 09:53:54,696 - DEBUG - Slice/subarray - [1, -5, 4]
+2021-09-18 09:53:54,696 - DEBUG - Sum of subarray - 0
+2021-09-18 09:53:54,696 - DEBUG - Index i - 7
+2021-09-18 09:53:54,696 - DEBUG - End index j - 7
+2021-09-18 09:53:54,696 - DEBUG - Slice/subarray - [-5]
+2021-09-18 09:53:54,696 - DEBUG - Sum of subarray - -5
+2021-09-18 09:53:54,696 - DEBUG - End index j - 8
+2021-09-18 09:53:54,696 - DEBUG - Slice/subarray - [-5, 4]
+2021-09-18 09:53:54,696 - DEBUG - Sum of subarray - -1
+2021-09-18 09:53:54,697 - DEBUG - Index i - 8
+2021-09-18 09:53:54,697 - DEBUG - End index j - 8
+2021-09-18 09:53:54,697 - DEBUG - Slice/subarray - [4]
+2021-09-18 09:53:54,697 - DEBUG - Sum of subarray - 4
+2021-09-18 09:53:54,697 - DEBUG - Max sum - 1
+2021-09-18 09:55:17,095 - INFO - Array - [-2, 1, -3, 4, -1, 2, 1, -5, 4]
+2021-09-18 09:55:17,096 - INFO - Sum of array - 1
+2021-09-18 09:55:17,096 - DEBUG - Index i - 0
+2021-09-18 09:55:17,096 - DEBUG - End index j - 0
+2021-09-18 09:55:17,096 - DEBUG - Slice/subarray - [-2]
+2021-09-18 09:55:17,097 - DEBUG - Sum of subarray - -2
+2021-09-18 09:55:17,097 - DEBUG - End index j - 1
+2021-09-18 09:55:17,097 - DEBUG - Slice/subarray - [-2, 1]
+2021-09-18 09:55:17,097 - DEBUG - Sum of subarray - -1
+2021-09-18 09:55:17,097 - DEBUG - End index j - 2
+2021-09-18 09:55:17,097 - DEBUG - Slice/subarray - [-2, 1, -3]
+2021-09-18 09:55:17,097 - DEBUG - Sum of subarray - -4
+2021-09-18 09:55:17,097 - DEBUG - End index j - 3
+2021-09-18 09:55:17,097 - DEBUG - Slice/subarray - [-2, 1, -3, 4]
+2021-09-18 09:55:17,097 - DEBUG - Sum of subarray - 0
+2021-09-18 09:55:17,097 - DEBUG - End index j - 4
+2021-09-18 09:55:17,098 - DEBUG - Slice/subarray - [-2, 1, -3, 4, -1]
+2021-09-18 09:55:17,098 - DEBUG - Sum of subarray - -1
+2021-09-18 09:55:17,098 - DEBUG - End index j - 5
+2021-09-18 09:55:17,098 - DEBUG - Slice/subarray - [-2, 1, -3, 4, -1, 2]
+2021-09-18 09:55:17,098 - DEBUG - Sum of subarray - 1
+2021-09-18 09:55:17,098 - DEBUG - End index j - 6
+2021-09-18 09:55:17,098 - DEBUG - Slice/subarray - [-2, 1, -3, 4, -1, 2, 1]
+2021-09-18 09:55:17,098 - DEBUG - Sum of subarray - 2
+2021-09-18 09:55:17,098 - DEBUG - New max - 1
+2021-09-18 09:55:17,098 - DEBUG - End index j - 7
+2021-09-18 09:55:17,098 - DEBUG - Slice/subarray - [-2, 1, -3, 4, -1, 2, 1, -5]
+2021-09-18 09:55:17,099 - DEBUG - Sum of subarray - -3
+2021-09-18 09:55:17,099 - DEBUG - End index j - 8
+2021-09-18 09:55:17,099 - DEBUG - Slice/subarray - [-2, 1, -3, 4, -1, 2, 1, -5, 4]
+2021-09-18 09:55:17,099 - DEBUG - Sum of subarray - 1
+2021-09-18 09:55:17,099 - DEBUG - Index i - 1
+2021-09-18 09:55:17,099 - DEBUG - End index j - 1
+2021-09-18 09:55:17,099 - DEBUG - Slice/subarray - [1]
+2021-09-18 09:55:17,099 - DEBUG - Sum of subarray - 1
+2021-09-18 09:55:17,099 - DEBUG - End index j - 2
+2021-09-18 09:55:17,099 - DEBUG - Slice/subarray - [1, -3]
+2021-09-18 09:55:17,099 - DEBUG - Sum of subarray - -2
+2021-09-18 09:55:17,099 - DEBUG - End index j - 3
+2021-09-18 09:55:17,100 - DEBUG - Slice/subarray - [1, -3, 4]
+2021-09-18 09:55:17,100 - DEBUG - Sum of subarray - 2
+2021-09-18 09:55:17,100 - DEBUG - New max - 1
+2021-09-18 09:55:17,100 - DEBUG - End index j - 4
+2021-09-18 09:55:17,100 - DEBUG - Slice/subarray - [1, -3, 4, -1]
+2021-09-18 09:55:17,100 - DEBUG - Sum of subarray - 1
+2021-09-18 09:55:17,100 - DEBUG - End index j - 5
+2021-09-18 09:55:17,100 - DEBUG - Slice/subarray - [1, -3, 4, -1, 2]
+2021-09-18 09:55:17,100 - DEBUG - Sum of subarray - 3
+2021-09-18 09:55:17,100 - DEBUG - New max - 1
+2021-09-18 09:55:17,100 - DEBUG - End index j - 6
+2021-09-18 09:55:17,100 - DEBUG - Slice/subarray - [1, -3, 4, -1, 2, 1]
+2021-09-18 09:55:17,101 - DEBUG - Sum of subarray - 4
+2021-09-18 09:55:17,101 - DEBUG - New max - 1
+2021-09-18 09:55:17,101 - DEBUG - End index j - 7
+2021-09-18 09:55:17,101 - DEBUG - Slice/subarray - [1, -3, 4, -1, 2, 1, -5]
+2021-09-18 09:55:17,101 - DEBUG - Sum of subarray - -1
+2021-09-18 09:55:17,101 - DEBUG - End index j - 8
+2021-09-18 09:55:17,101 - DEBUG - Slice/subarray - [1, -3, 4, -1, 2, 1, -5, 4]
+2021-09-18 09:55:17,101 - DEBUG - Sum of subarray - 3
+2021-09-18 09:55:17,101 - DEBUG - New max - 1
+2021-09-18 09:55:17,101 - DEBUG - Index i - 2
+2021-09-18 09:55:17,101 - DEBUG - End index j - 2
+2021-09-18 09:55:17,101 - DEBUG - Slice/subarray - [-3]
+2021-09-18 09:55:17,101 - DEBUG - Sum of subarray - -3
+2021-09-18 09:55:17,102 - DEBUG - End index j - 3
+2021-09-18 09:55:17,102 - DEBUG - Slice/subarray - [-3, 4]
+2021-09-18 09:55:17,102 - DEBUG - Sum of subarray - 1
+2021-09-18 09:55:17,102 - DEBUG - End index j - 4
+2021-09-18 09:55:17,102 - DEBUG - Slice/subarray - [-3, 4, -1]
+2021-09-18 09:55:17,102 - DEBUG - Sum of subarray - 0
+2021-09-18 09:55:17,102 - DEBUG - End index j - 5
+2021-09-18 09:55:17,102 - DEBUG - Slice/subarray - [-3, 4, -1, 2]
+2021-09-18 09:55:17,102 - DEBUG - Sum of subarray - 2
+2021-09-18 09:55:17,102 - DEBUG - New max - 1
+2021-09-18 09:55:17,102 - DEBUG - End index j - 6
+2021-09-18 09:55:17,102 - DEBUG - Slice/subarray - [-3, 4, -1, 2, 1]
+2021-09-18 09:55:17,103 - DEBUG - Sum of subarray - 3
+2021-09-18 09:55:17,103 - DEBUG - New max - 1
+2021-09-18 09:55:17,103 - DEBUG - End index j - 7
+2021-09-18 09:55:17,103 - DEBUG - Slice/subarray - [-3, 4, -1, 2, 1, -5]
+2021-09-18 09:55:17,103 - DEBUG - Sum of subarray - -2
+2021-09-18 09:55:17,103 - DEBUG - End index j - 8
+2021-09-18 09:55:17,103 - DEBUG - Slice/subarray - [-3, 4, -1, 2, 1, -5, 4]
+2021-09-18 09:55:17,103 - DEBUG - Sum of subarray - 2
+2021-09-18 09:55:17,103 - DEBUG - New max - 1
+2021-09-18 09:55:17,103 - DEBUG - Index i - 3
+2021-09-18 09:55:17,103 - DEBUG - End index j - 3
+2021-09-18 09:55:17,103 - DEBUG - Slice/subarray - [4]
+2021-09-18 09:55:17,104 - DEBUG - Sum of subarray - 4
+2021-09-18 09:55:17,104 - DEBUG - New max - 1
+2021-09-18 09:55:17,104 - DEBUG - End index j - 4
+2021-09-18 09:55:17,104 - DEBUG - Slice/subarray - [4, -1]
+2021-09-18 09:55:17,104 - DEBUG - Sum of subarray - 3
+2021-09-18 09:55:17,104 - DEBUG - New max - 1
+2021-09-18 09:55:17,104 - DEBUG - End index j - 5
+2021-09-18 09:55:17,104 - DEBUG - Slice/subarray - [4, -1, 2]
+2021-09-18 09:55:17,104 - DEBUG - Sum of subarray - 5
+2021-09-18 09:55:17,104 - DEBUG - New max - 1
+2021-09-18 09:55:17,104 - DEBUG - End index j - 6
+2021-09-18 09:55:17,104 - DEBUG - Slice/subarray - [4, -1, 2, 1]
+2021-09-18 09:55:17,105 - DEBUG - Sum of subarray - 6
+2021-09-18 09:55:17,105 - DEBUG - New max - 1
+2021-09-18 09:55:17,105 - DEBUG - End index j - 7
+2021-09-18 09:55:17,105 - DEBUG - Slice/subarray - [4, -1, 2, 1, -5]
+2021-09-18 09:55:17,105 - DEBUG - Sum of subarray - 1
+2021-09-18 09:55:17,105 - DEBUG - End index j - 8
+2021-09-18 09:55:17,105 - DEBUG - Slice/subarray - [4, -1, 2, 1, -5, 4]
+2021-09-18 09:55:17,105 - DEBUG - Sum of subarray - 5
+2021-09-18 09:55:17,105 - DEBUG - New max - 1
+2021-09-18 09:55:17,105 - DEBUG - Index i - 4
+2021-09-18 09:55:17,105 - DEBUG - End index j - 4
+2021-09-18 09:55:17,105 - DEBUG - Slice/subarray - [-1]
+2021-09-18 09:55:17,105 - DEBUG - Sum of subarray - -1
+2021-09-18 09:55:17,106 - DEBUG - End index j - 5
+2021-09-18 09:55:17,106 - DEBUG - Slice/subarray - [-1, 2]
+2021-09-18 09:55:17,106 - DEBUG - Sum of subarray - 1
+2021-09-18 09:55:17,106 - DEBUG - End index j - 6
+2021-09-18 09:55:17,106 - DEBUG - Slice/subarray - [-1, 2, 1]
+2021-09-18 09:55:17,106 - DEBUG - Sum of subarray - 2
+2021-09-18 09:55:17,106 - DEBUG - New max - 1
+2021-09-18 09:55:17,106 - DEBUG - End index j - 7
+2021-09-18 09:55:17,106 - DEBUG - Slice/subarray - [-1, 2, 1, -5]
+2021-09-18 09:55:17,106 - DEBUG - Sum of subarray - -3
+2021-09-18 09:55:17,106 - DEBUG - End index j - 8
+2021-09-18 09:55:17,106 - DEBUG - Slice/subarray - [-1, 2, 1, -5, 4]
+2021-09-18 09:55:17,106 - DEBUG - Sum of subarray - 1
+2021-09-18 09:55:17,107 - DEBUG - Index i - 5
+2021-09-18 09:55:17,107 - DEBUG - End index j - 5
+2021-09-18 09:55:17,107 - DEBUG - Slice/subarray - [2]
+2021-09-18 09:55:17,107 - DEBUG - Sum of subarray - 2
+2021-09-18 09:55:17,107 - DEBUG - New max - 1
+2021-09-18 09:55:17,107 - DEBUG - End index j - 6
+2021-09-18 09:55:17,107 - DEBUG - Slice/subarray - [2, 1]
+2021-09-18 09:55:17,107 - DEBUG - Sum of subarray - 3
+2021-09-18 09:55:17,107 - DEBUG - New max - 1
+2021-09-18 09:55:17,107 - DEBUG - End index j - 7
+2021-09-18 09:55:17,107 - DEBUG - Slice/subarray - [2, 1, -5]
+2021-09-18 09:55:17,108 - DEBUG - Sum of subarray - -2
+2021-09-18 09:55:17,108 - DEBUG - End index j - 8
+2021-09-18 09:55:17,108 - DEBUG - Slice/subarray - [2, 1, -5, 4]
+2021-09-18 09:55:17,108 - DEBUG - Sum of subarray - 2
+2021-09-18 09:55:17,108 - DEBUG - New max - 1
+2021-09-18 09:55:17,108 - DEBUG - Index i - 6
+2021-09-18 09:55:17,108 - DEBUG - End index j - 6
+2021-09-18 09:55:17,108 - DEBUG - Slice/subarray - [1]
+2021-09-18 09:55:17,108 - DEBUG - Sum of subarray - 1
+2021-09-18 09:55:17,108 - DEBUG - End index j - 7
+2021-09-18 09:55:17,108 - DEBUG - Slice/subarray - [1, -5]
+2021-09-18 09:55:17,108 - DEBUG - Sum of subarray - -4
+2021-09-18 09:55:17,109 - DEBUG - End index j - 8
+2021-09-18 09:55:17,109 - DEBUG - Slice/subarray - [1, -5, 4]
+2021-09-18 09:55:17,109 - DEBUG - Sum of subarray - 0
+2021-09-18 09:55:17,109 - DEBUG - Index i - 7
+2021-09-18 09:55:17,109 - DEBUG - End index j - 7
+2021-09-18 09:55:17,109 - DEBUG - Slice/subarray - [-5]
+2021-09-18 09:55:17,109 - DEBUG - Sum of subarray - -5
+2021-09-18 09:55:17,109 - DEBUG - End index j - 8
+2021-09-18 09:55:17,109 - DEBUG - Slice/subarray - [-5, 4]
+2021-09-18 09:55:17,109 - DEBUG - Sum of subarray - -1
+2021-09-18 09:55:17,109 - DEBUG - Index i - 8
+2021-09-18 09:55:17,109 - DEBUG - End index j - 8
+2021-09-18 09:55:17,110 - DEBUG - Slice/subarray - [4]
+2021-09-18 09:55:17,110 - DEBUG - Sum of subarray - 4
+2021-09-18 09:55:17,110 - DEBUG - New max - 1
+2021-09-18 09:55:17,110 - DEBUG - Max sum - 1
+2021-09-18 09:56:23,813 - INFO - Array - [-2, 1, -3, 4, -1, 2, 1, -5, 4]
+2021-09-18 09:56:23,813 - DEBUG - Index i - 0
+2021-09-18 09:56:23,813 - DEBUG - End index j - 0
+2021-09-18 09:56:23,814 - DEBUG - Slice/subarray - [-2]
+2021-09-18 09:56:23,814 - DEBUG - Sum of subarray - -2
+2021-09-18 09:56:23,814 - DEBUG - End index j - 1
+2021-09-18 09:56:23,814 - DEBUG - Slice/subarray - [-2, 1]
+2021-09-18 09:56:23,814 - DEBUG - Sum of subarray - -1
+2021-09-18 09:56:23,814 - DEBUG - End index j - 2
+2021-09-18 09:56:23,814 - DEBUG - Slice/subarray - [-2, 1, -3]
+2021-09-18 09:56:23,814 - DEBUG - Sum of subarray - -4
+2021-09-18 09:56:23,814 - DEBUG - End index j - 3
+2021-09-18 09:56:23,814 - DEBUG - Slice/subarray - [-2, 1, -3, 4]
+2021-09-18 09:56:23,814 - DEBUG - Sum of subarray - 0
+2021-09-18 09:56:23,814 - DEBUG - End index j - 4
+2021-09-18 09:56:23,815 - DEBUG - Slice/subarray - [-2, 1, -3, 4, -1]
+2021-09-18 09:56:23,815 - DEBUG - Sum of subarray - -1
+2021-09-18 09:56:23,815 - DEBUG - End index j - 5
+2021-09-18 09:56:23,815 - DEBUG - Slice/subarray - [-2, 1, -3, 4, -1, 2]
+2021-09-18 09:56:23,815 - DEBUG - Sum of subarray - 1
+2021-09-18 09:56:23,815 - DEBUG - New max - 1
+2021-09-18 09:56:23,815 - DEBUG - End index j - 6
+2021-09-18 09:56:23,815 - DEBUG - Slice/subarray - [-2, 1, -3, 4, -1, 2, 1]
+2021-09-18 09:56:23,815 - DEBUG - Sum of subarray - 2
+2021-09-18 09:56:23,815 - DEBUG - New max - 2
+2021-09-18 09:56:23,815 - DEBUG - End index j - 7
+2021-09-18 09:56:23,815 - DEBUG - Slice/subarray - [-2, 1, -3, 4, -1, 2, 1, -5]
+2021-09-18 09:56:23,815 - DEBUG - Sum of subarray - -3
+2021-09-18 09:56:23,816 - DEBUG - End index j - 8
+2021-09-18 09:56:23,816 - DEBUG - Slice/subarray - [-2, 1, -3, 4, -1, 2, 1, -5, 4]
+2021-09-18 09:56:23,816 - DEBUG - Sum of subarray - 1
+2021-09-18 09:56:23,816 - DEBUG - Index i - 1
+2021-09-18 09:56:23,816 - DEBUG - End index j - 1
+2021-09-18 09:56:23,816 - DEBUG - Slice/subarray - [1]
+2021-09-18 09:56:23,816 - DEBUG - Sum of subarray - 1
+2021-09-18 09:56:23,816 - DEBUG - End index j - 2
+2021-09-18 09:56:23,816 - DEBUG - Slice/subarray - [1, -3]
+2021-09-18 09:56:23,816 - DEBUG - Sum of subarray - -2
+2021-09-18 09:56:23,816 - DEBUG - End index j - 3
+2021-09-18 09:56:23,816 - DEBUG - Slice/subarray - [1, -3, 4]
+2021-09-18 09:56:23,816 - DEBUG - Sum of subarray - 2
+2021-09-18 09:56:23,816 - DEBUG - End index j - 4
+2021-09-18 09:56:23,817 - DEBUG - Slice/subarray - [1, -3, 4, -1]
+2021-09-18 09:56:23,817 - DEBUG - Sum of subarray - 1
+2021-09-18 09:56:23,817 - DEBUG - End index j - 5
+2021-09-18 09:56:23,817 - DEBUG - Slice/subarray - [1, -3, 4, -1, 2]
+2021-09-18 09:56:23,817 - DEBUG - Sum of subarray - 3
+2021-09-18 09:56:23,817 - DEBUG - New max - 3
+2021-09-18 09:56:23,817 - DEBUG - End index j - 6
+2021-09-18 09:56:23,817 - DEBUG - Slice/subarray - [1, -3, 4, -1, 2, 1]
+2021-09-18 09:56:23,817 - DEBUG - Sum of subarray - 4
+2021-09-18 09:56:23,817 - DEBUG - New max - 4
+2021-09-18 09:56:23,817 - DEBUG - End index j - 7
+2021-09-18 09:56:23,817 - DEBUG - Slice/subarray - [1, -3, 4, -1, 2, 1, -5]
+2021-09-18 09:56:23,817 - DEBUG - Sum of subarray - -1
+2021-09-18 09:56:23,818 - DEBUG - End index j - 8
+2021-09-18 09:56:23,818 - DEBUG - Slice/subarray - [1, -3, 4, -1, 2, 1, -5, 4]
+2021-09-18 09:56:23,818 - DEBUG - Sum of subarray - 3
+2021-09-18 09:56:23,818 - DEBUG - Index i - 2
+2021-09-18 09:56:23,818 - DEBUG - End index j - 2
+2021-09-18 09:56:23,818 - DEBUG - Slice/subarray - [-3]
+2021-09-18 09:56:23,818 - DEBUG - Sum of subarray - -3
+2021-09-18 09:56:23,818 - DEBUG - End index j - 3
+2021-09-18 09:56:23,818 - DEBUG - Slice/subarray - [-3, 4]
+2021-09-18 09:56:23,818 - DEBUG - Sum of subarray - 1
+2021-09-18 09:56:23,818 - DEBUG - End index j - 4
+2021-09-18 09:56:23,818 - DEBUG - Slice/subarray - [-3, 4, -1]
+2021-09-18 09:56:23,818 - DEBUG - Sum of subarray - 0
+2021-09-18 09:56:23,818 - DEBUG - End index j - 5
+2021-09-18 09:56:23,819 - DEBUG - Slice/subarray - [-3, 4, -1, 2]
+2021-09-18 09:56:23,819 - DEBUG - Sum of subarray - 2
+2021-09-18 09:56:23,819 - DEBUG - End index j - 6
+2021-09-18 09:56:23,819 - DEBUG - Slice/subarray - [-3, 4, -1, 2, 1]
+2021-09-18 09:56:23,819 - DEBUG - Sum of subarray - 3
+2021-09-18 09:56:23,819 - DEBUG - End index j - 7
+2021-09-18 09:56:23,819 - DEBUG - Slice/subarray - [-3, 4, -1, 2, 1, -5]
+2021-09-18 09:56:23,819 - DEBUG - Sum of subarray - -2
+2021-09-18 09:56:23,819 - DEBUG - End index j - 8
+2021-09-18 09:56:23,819 - DEBUG - Slice/subarray - [-3, 4, -1, 2, 1, -5, 4]
+2021-09-18 09:56:23,819 - DEBUG - Sum of subarray - 2
+2021-09-18 09:56:23,819 - DEBUG - Index i - 3
+2021-09-18 09:56:23,819 - DEBUG - End index j - 3
+2021-09-18 09:56:23,819 - DEBUG - Slice/subarray - [4]
+2021-09-18 09:56:23,820 - DEBUG - Sum of subarray - 4
+2021-09-18 09:56:23,820 - DEBUG - End index j - 4
+2021-09-18 09:56:23,820 - DEBUG - Slice/subarray - [4, -1]
+2021-09-18 09:56:23,820 - DEBUG - Sum of subarray - 3
+2021-09-18 09:56:23,820 - DEBUG - End index j - 5
+2021-09-18 09:56:23,820 - DEBUG - Slice/subarray - [4, -1, 2]
+2021-09-18 09:56:23,820 - DEBUG - Sum of subarray - 5
+2021-09-18 09:56:23,820 - DEBUG - New max - 5
+2021-09-18 09:56:23,820 - DEBUG - End index j - 6
+2021-09-18 09:56:23,820 - DEBUG - Slice/subarray - [4, -1, 2, 1]
+2021-09-18 09:56:23,820 - DEBUG - Sum of subarray - 6
+2021-09-18 09:56:23,820 - DEBUG - New max - 6
+2021-09-18 09:56:23,820 - DEBUG - End index j - 7
+2021-09-18 09:56:23,820 - DEBUG - Slice/subarray - [4, -1, 2, 1, -5]
+2021-09-18 09:56:23,821 - DEBUG - Sum of subarray - 1
+2021-09-18 09:56:23,821 - DEBUG - End index j - 8
+2021-09-18 09:56:23,821 - DEBUG - Slice/subarray - [4, -1, 2, 1, -5, 4]
+2021-09-18 09:56:23,821 - DEBUG - Sum of subarray - 5
+2021-09-18 09:56:23,821 - DEBUG - Index i - 4
+2021-09-18 09:56:23,821 - DEBUG - End index j - 4
+2021-09-18 09:56:23,821 - DEBUG - Slice/subarray - [-1]
+2021-09-18 09:56:23,821 - DEBUG - Sum of subarray - -1
+2021-09-18 09:56:23,821 - DEBUG - End index j - 5
+2021-09-18 09:56:23,821 - DEBUG - Slice/subarray - [-1, 2]
+2021-09-18 09:56:23,821 - DEBUG - Sum of subarray - 1
+2021-09-18 09:56:23,821 - DEBUG - End index j - 6
+2021-09-18 09:56:23,821 - DEBUG - Slice/subarray - [-1, 2, 1]
+2021-09-18 09:56:23,821 - DEBUG - Sum of subarray - 2
+2021-09-18 09:56:23,822 - DEBUG - End index j - 7
+2021-09-18 09:56:23,822 - DEBUG - Slice/subarray - [-1, 2, 1, -5]
+2021-09-18 09:56:23,822 - DEBUG - Sum of subarray - -3
+2021-09-18 09:56:23,822 - DEBUG - End index j - 8
+2021-09-18 09:56:23,822 - DEBUG - Slice/subarray - [-1, 2, 1, -5, 4]
+2021-09-18 09:56:23,822 - DEBUG - Sum of subarray - 1
+2021-09-18 09:56:23,822 - DEBUG - Index i - 5
+2021-09-18 09:56:23,822 - DEBUG - End index j - 5
+2021-09-18 09:56:23,822 - DEBUG - Slice/subarray - [2]
+2021-09-18 09:56:23,822 - DEBUG - Sum of subarray - 2
+2021-09-18 09:56:23,822 - DEBUG - End index j - 6
+2021-09-18 09:56:23,822 - DEBUG - Slice/subarray - [2, 1]
+2021-09-18 09:56:23,822 - DEBUG - Sum of subarray - 3
+2021-09-18 09:56:23,822 - DEBUG - End index j - 7
+2021-09-18 09:56:23,823 - DEBUG - Slice/subarray - [2, 1, -5]
+2021-09-18 09:56:23,823 - DEBUG - Sum of subarray - -2
+2021-09-18 09:56:23,823 - DEBUG - End index j - 8
+2021-09-18 09:56:23,823 - DEBUG - Slice/subarray - [2, 1, -5, 4]
+2021-09-18 09:56:23,823 - DEBUG - Sum of subarray - 2
+2021-09-18 09:56:23,823 - DEBUG - Index i - 6
+2021-09-18 09:56:23,823 - DEBUG - End index j - 6
+2021-09-18 09:56:23,823 - DEBUG - Slice/subarray - [1]
+2021-09-18 09:56:23,823 - DEBUG - Sum of subarray - 1
+2021-09-18 09:56:23,823 - DEBUG - End index j - 7
+2021-09-18 09:56:23,823 - DEBUG - Slice/subarray - [1, -5]
+2021-09-18 09:56:23,824 - DEBUG - Sum of subarray - -4
+2021-09-18 09:56:23,824 - DEBUG - End index j - 8
+2021-09-18 09:56:23,824 - DEBUG - Slice/subarray - [1, -5, 4]
+2021-09-18 09:56:23,824 - DEBUG - Sum of subarray - 0
+2021-09-18 09:56:23,824 - DEBUG - Index i - 7
+2021-09-18 09:56:23,824 - DEBUG - End index j - 7
+2021-09-18 09:56:23,824 - DEBUG - Slice/subarray - [-5]
+2021-09-18 09:56:23,824 - DEBUG - Sum of subarray - -5
+2021-09-18 09:56:23,824 - DEBUG - End index j - 8
+2021-09-18 09:56:23,824 - DEBUG - Slice/subarray - [-5, 4]
+2021-09-18 09:56:23,824 - DEBUG - Sum of subarray - -1
+2021-09-18 09:56:23,824 - DEBUG - Index i - 8
+2021-09-18 09:56:23,825 - DEBUG - End index j - 8
+2021-09-18 09:56:23,825 - DEBUG - Slice/subarray - [4]
+2021-09-18 09:56:23,825 - DEBUG - Sum of subarray - 4
+2021-09-18 09:56:23,825 - DEBUG - Max sum - 6

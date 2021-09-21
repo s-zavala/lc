@@ -1,0 +1,20 @@
+2021-09-15 10:37:54,963 - INFO - int array - []
+2021-09-15 10:37:54,964 - INFO - array length - 0
+2021-09-15 10:37:54,964 - INFO - int array - [0, 2, 0, 18, 4, 20, 11, 18, 14, 11]
+2021-09-15 10:37:54,965 - INFO - array length - 10
+2021-09-15 10:37:54,965 - INFO - value occurance found, deleting.
+2021-09-15 10:37:54,965 - INFO - unique int found that != val.
+2021-09-15 10:37:54,965 - INFO - value occurance found, deleting.
+2021-09-15 10:37:54,965 - INFO - unique int found that != val.
+2021-09-15 10:37:54,965 - INFO - unique int found that != val.
+2021-09-15 10:37:54,965 - INFO - unique int found that != val.
+2021-09-15 10:37:54,966 - INFO - unique int found that != val.
+2021-09-15 10:37:54,966 - INFO - unique int found that != val.
+2021-09-15 10:37:54,966 - INFO - unique int found that != val.
+2021-09-15 10:37:54,966 - INFO - unique int found that != val.
+2021-09-15 10:37:54,967 - INFO - int array - [0]
+2021-09-15 10:37:54,967 - INFO - array length - 1
+2021-09-15 10:37:54,967 - INFO - value occurance found, deleting.
+2021-09-15 10:37:54,967 - INFO - int array - [0]
+2021-09-15 10:37:54,968 - INFO - array length - 1
+2021-09-15 10:37:54,968 - INFO - unique int found that != val.
